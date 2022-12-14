@@ -46,7 +46,7 @@
 <p>&nbsp;</p>
 <p><strong>lick here to view the NeedIt Task record: ${URI_REF}</strong>.</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>${mailto:mailto.closeneedittask}</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>${mail_script:CountOverdueNeedItTasksAssignedTo}</p>]]></message_html>
